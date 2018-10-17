@@ -4,3 +4,4 @@ zhangsan xiugai
 wgc xiugai
 test
 zhansan add jy edit1
+zhansan add wgc edit
